@@ -1,12 +1,61 @@
-# React + Vite
+# ⚡ GSAP Animated Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and visually rich website built using **React**, **GSAP (GreenSock Animation Platform)**, and **Vite**. This project showcases smooth animations, scroll-triggered effects, and a modern user interface — perfect for portfolios, creative landing pages, or storytelling sites.
 
-Currently, two official plugins are available:
+> 🔧 Currently a work in progress. New features and sections are being added!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔄 Smooth animations powered by [GSAP](https://greensock.com/gsap/)
+- 🎯 Scroll-triggered animations using GSAP ScrollTrigger
+- ⚛️ Built with [React](https://react.dev/) + [Vite](https://vitejs.dev/)
+- ⚡ Lightning-fast dev server & HMR
+- 📱 Responsive and mobile-friendly layout (in progress)
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Vite, Tailwind CSS (optional)
+- **Animations**: GSAP + ScrollTrigger
+- **Tooling**: ESLint, Prettier
+
+---
+
+## 🚀 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/your-username/gsap-animated-website.git
+cd gsap-animated-website
+npm install
+npm run dev
+```
+The site will open at http://localhost:5173
+
+## 📌 Project Status
+<pre>
+ Setup with Vite + React
+ Navbar with basic animation
+ Hero section animation
+ ScrollReveal sections
+ Footer design
+ Responsive layout
+</pre>
+  
+# 🖼️ Preview
+Coming soon...
+A live demo link and preview GIF will be added after full layout completion.
+
+# 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
+
+# 📄 License
+This project is licensed under the MIT License.
+
+# 💬 Let's Connect
+For questions, suggestions, or collaboration, feel free to reach out:
+📧 raneshravani21@gmail.com
