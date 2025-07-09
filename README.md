@@ -14,15 +14,12 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 - ⚡ Lightning-fast dev server & HMR
 - 📱 Responsive and mobile-friendly layout (in progress)
 
----
-
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, Vite, Tailwind CSS (optional)
 - **Animations**: GSAP + ScrollTrigger
 - **Tooling**: ESLint, Prettier
 
----
 
 ## 🚀 Getting Started
 
