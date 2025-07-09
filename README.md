@@ -11,8 +11,7 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 - 🔄 Smooth animations powered by [GSAP](https://greensock.com/gsap/)
 - 🎯 Scroll-triggered animations using GSAP ScrollTrigger
 - ⚛️ Built with [React](https://react.dev/) + [Vite](https://vitejs.dev/)
-- ⚡ Lightning-fast dev server & HMR
-- 📱 Responsive and mobile-friendly layout (in progress)
+- 📱 Responsive and mobile-friendly layout
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +25,7 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 Clone the repo and run locally:
 
 ```bash
-git clone https://github.com/your-username/gsap-animated-website.git
+git clone https://github.com/SHRAVANIRANE/gsap-animated-website.git
 cd gsap-animated-website
 npm install
 npm run dev
