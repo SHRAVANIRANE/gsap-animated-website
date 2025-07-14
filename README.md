@@ -43,7 +43,7 @@ The site will open at http://localhost:5173
 </pre>
   
 # 🖼️ Preview
-[![Website Screenshot](public/img/thumbnail.png)](https://app.screencastify.com/watch/Su6gZy5ZEAQETi87UrTl)
+[![Website Screenshot](public/img/thumbnail.png)](https://gsap-animated-website.netlify.app/)
 
 
 # 🤝 Contributing
