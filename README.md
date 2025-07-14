@@ -43,8 +43,8 @@ The site will open at http://localhost:5173
 </pre>
   
 # 🖼️ Preview
-Coming soon...
-A live demo link and preview GIF will be added after full layout completion.
+[![Website Screenshot](img/thumbnail.png)](https://app.screencastify.com/watch/Su6gZy5ZEAQETi87UrTl)
+
 
 # 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
