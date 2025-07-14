@@ -2,7 +2,6 @@
 
 An interactive and visually rich website built using **React**, **GSAP (GreenSock Animation Platform)**, and **Vite**. This project showcases smooth animations, scroll-triggered effects, and a modern user interface — perfect for portfolios, creative landing pages, or storytelling sites.
 
-> 🔧 Currently a work in progress. New features and sections are being added!
 
 ---
 
@@ -15,7 +14,7 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, Vite, Tailwind CSS (optional)
+- **Frontend**: React, Vite, Tailwind CSS
 - **Animations**: GSAP + ScrollTrigger
 - **Tooling**: ESLint, Prettier
 
