@@ -5,6 +5,9 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 
 ---
 
+# 🖼️ Preview
+[![Website Screenshot](public/img/thumbnail.png)](https://gsap-animated-website.netlify.app/)
+
 ## ✨ Features
 
 - 🔄 Smooth animations powered by [GSAP](https://greensock.com/gsap/)
@@ -40,10 +43,6 @@ The site will open at http://localhost:5173
  Footer design
  Responsive layout
 </pre>
-  
-# 🖼️ Preview
-[![Website Screenshot](public/img/thumbnail.png)](https://gsap-animated-website.netlify.app/)
-
 
 # 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
