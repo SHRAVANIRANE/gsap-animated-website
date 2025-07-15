@@ -5,7 +5,7 @@ An interactive and visually rich website built using **React**, **GSAP (GreenSoc
 
 ---
 
-# 🖼️ Preview
+## 🖼️ Preview
 [![Website Screenshot](public/img/thumbnail.png)](https://gsap-animated-website.netlify.app/)
 
 ## ✨ Features
