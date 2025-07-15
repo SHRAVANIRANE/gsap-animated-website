@@ -40,6 +40,7 @@ The site will open at http://localhost:5173
  Navbar with basic animation
  Hero section animation
  ScrollReveal sections
+ Bento Cards with animations
  Footer design
  Responsive layout
 </pre>
