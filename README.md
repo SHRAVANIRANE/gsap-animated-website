@@ -48,9 +48,6 @@ The site will open at http://localhost:5173
 # 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or improve.
 
-# 📄 License
-This project is licensed under the MIT License.
-
 # 💬 Let's Connect
 For questions, suggestions, or collaboration, feel free to reach out:
 📧 raneshravani21@gmail.com
